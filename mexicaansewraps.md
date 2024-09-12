@@ -1,6 +1,6 @@
-# mexicaanse wrap
+# Mexicaanse wrap
 
-### ingredienten
+### Ingredienten
 * 1 middelgrote ui
 * 1 rode paprika
 * 1 teen knoflook
